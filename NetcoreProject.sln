@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetcoreProject", "NetcoreProject\NetcoreProject.csproj", "{3541E3BE-D636-44BB-A66C-F71AD9CFD7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{55B91D19-24C5-4A3A-9011-3FA8FB21DF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{0CBF6C64-DB61-42D7-AA64-F07BE5A52004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3541E3BE-D636-44BB-A66C-F71AD9CFD7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3541E3BE-D636-44BB-A66C-F71AD9CFD7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3541E3BE-D636-44BB-A66C-F71AD9CFD7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3541E3BE-D636-44BB-A66C-F71AD9CFD7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B91D19-24C5-4A3A-9011-3FA8FB21DF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B91D19-24C5-4A3A-9011-3FA8FB21DF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B91D19-24C5-4A3A-9011-3FA8FB21DF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B91D19-24C5-4A3A-9011-3FA8FB21DF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBF6C64-DB61-42D7-AA64-F07BE5A52004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBF6C64-DB61-42D7-AA64-F07BE5A52004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBF6C64-DB61-42D7-AA64-F07BE5A52004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBF6C64-DB61-42D7-AA64-F07BE5A52004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707A47C9-D6E7-4E87-B016-05CE42298CAB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.deps.json
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.runtimeconfig.json
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.runtimeconfig.dev.json
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.pdb
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.csprojResolveAssemblyReference.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.csproj.CoreCompileInputs.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.AssemblyInfoInputs.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.AssemblyInfo.cs
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.pdb
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\Service.pdb

@@ -1,0 +1,9 @@
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\obj\Debug\netcoreapp2.0\Model.csprojResolveAssemblyReference.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\obj\Debug\netcoreapp2.0\Model.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Model\obj\Debug\netcoreapp2.0\Model.pdb

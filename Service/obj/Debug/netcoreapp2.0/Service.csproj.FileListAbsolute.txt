@@ -1,0 +1,11 @@
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\obj\Debug\netcoreapp2.0\Service.csprojResolveAssemblyReference.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\obj\Debug\netcoreapp2.0\Service.dll
+C:\Users\hitog\Desktop\netcore\NetcoreProject\Service\obj\Debug\netcoreapp2.0\Service.pdb
