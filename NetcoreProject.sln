@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetcoreProject", "NetcoreProject\NetcoreProject.csproj", "{3541E3BE-D636-44BB-A66C-F71AD9CFD7AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{55B91D19-24C5-4A3A-9011-3FA8FB21DF3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{55B91D19-24C5-4A3A-9011-3FA8FB21DF3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{0CBF6C64-DB61-42D7-AA64-F07BE5A52004}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{0CBF6C64-DB61-42D7-AA64-F07BE5A52004}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
