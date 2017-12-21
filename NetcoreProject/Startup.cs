@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Model;
+using Service;
 
 namespace NetcoreProject
 {
@@ -23,6 +24,9 @@ namespace NetcoreProject
 
             var sqlConnection = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<AlbumDbContext>(options => options.UseSqlServer(sqlConnection));
+
+            // My service dependecies
+            services.AddTransient<IAlbumService, AlbumService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

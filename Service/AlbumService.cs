@@ -1,0 +1,61 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Model;
+using Model.Domain;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Service
+{
+    public interface IAlbumService
+    {
+        bool Create(Album model);
+        IEnumerable<Album> GetAll();
+    }
+
+    public class AlbumService : IAlbumService
+    {
+        private readonly AlbumDbContext _context;
+
+        public AlbumService(
+            AlbumDbContext context
+        )
+        {
+            _context = context;
+        }
+
+        public bool Create(Album model)
+        {
+            try
+            {
+                model.CreatedAt = DateTime.Now;
+                _context.Entry(model).State = EntityState.Added;
+                _context.SaveChanges();
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        public IEnumerable<Album> GetAll()
+        {
+            var result = new List<Album>();
+
+            try
+            {
+                result = _context.Album.OrderByDescending(x => x.CreatedAt)
+                              .ToList();
+            }
+            catch (Exception)
+            {
+                
+            }
+
+            return result;
+        }
+    }
+}
