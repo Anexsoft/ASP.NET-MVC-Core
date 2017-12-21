@@ -13,3 +13,18 @@ C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreap
 C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\Service.dll
 C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\Model.pdb
 C:\Users\hitog\Desktop\netcore\NetcoreProject\NetcoreProject\bin\Debug\netcoreapp2.0\Service.pdb
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.deps.json
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.runtimeconfig.json
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.runtimeconfig.dev.json
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.dll
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\NetcoreProject.pdb
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\Model.dll
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\Service.dll
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\Model.pdb
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\bin\Debug\netcoreapp2.0\Service.pdb
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.csprojResolveAssemblyReference.cache
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.csproj.CoreCompileInputs.cache
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.AssemblyInfoInputs.cache
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.AssemblyInfo.cs
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.dll
+D:\Mi Trabajo\Tutoriales\ASP.NET-Core-mvc\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.pdb

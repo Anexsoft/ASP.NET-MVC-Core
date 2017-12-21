@@ -3401,11 +3401,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\hitog\\Desktop\\netcore\\NetcoreProject\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\Mi Trabajo\\Tutoriales\\ASP.NET-Core-mvc\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\hitog\\Desktop\\netcore\\NetcoreProject\\Model\\Model.csproj",
+      "projectPath": "D:\\Mi Trabajo\\Tutoriales\\ASP.NET-Core-mvc\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\hitog\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hitog\\Desktop\\netcore\\NetcoreProject\\Model\\obj\\",
+      "outputPath": "D:\\Mi Trabajo\\Tutoriales\\ASP.NET-Core-mvc\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

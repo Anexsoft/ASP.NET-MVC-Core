@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using NetcoreProject.Models;
+using Model.Domain;
 
 namespace NetcoreProject.Controllers
 {
@@ -15,23 +12,20 @@ namespace NetcoreProject.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Create()
         {
-            ViewData["Message"] = "Your application description page.";
-
             return View();
         }
 
-        public IActionResult Contact()
+        [HttpPost]
+        public IActionResult Insert(AlbumViewModel model)
         {
-            ViewData["Message"] = "Your contact page.";
+            if (!ModelState.IsValid)
+            {
+                return View("Create", model);
+            }
 
-            return View();
-        }
-
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return RedirectToAction("Index");
         }
     }
 }
