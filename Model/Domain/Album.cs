@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Model.Domain
 {
@@ -9,5 +10,7 @@ namespace Model.Domain
         public string Description { get; set; }
         public string PhotoLink { get; set; }
         public DateTime CreatedAt { get; set; }
+
+        public IEnumerable<Photo> Photos { get; set; }
     }
 }

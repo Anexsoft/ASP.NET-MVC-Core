@@ -1,0 +1,13 @@
+﻿@model PhotoViewModel
+
+<form asp-action="insert" method="post" enctype="multipart/form-data">
+    @Html.HiddenFor(x => x.AlbumId)
+    <div class="form-group">
+        <label asp-for="Photo">Photo</label>
+        <input class="form-control" type="file" asp-for="Photo" accept="image/*" />
+    </div>
+    <button class="btn btn-success" type="submit">
+        Guardar
+    </button>
+</form>
+

@@ -12,5 +12,6 @@ namespace Model
         }
 
         public DbSet<Album> Album { get; set; }
+        public DbSet<Photo> Photo { get; set; }
     }
 }

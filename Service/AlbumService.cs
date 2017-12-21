@@ -12,6 +12,7 @@ namespace Service
     {
         bool Create(Album model);
         IEnumerable<Album> GetAll();
+        Album Get(int albumIn);
     }
 
     public class AlbumService : IAlbumService
@@ -53,6 +54,23 @@ namespace Service
             catch (Exception)
             {
                 
+            }
+
+            return result;
+        }
+
+        public Album Get(int albumId)
+        {
+            var result = new Album();
+
+            try
+            {
+                result = _context.Album.Include(x => x.Photos)
+                                       .Single(x => x.Id == albumId);
+            }
+            catch (Exception)
+            {
+
             }
 
             return result;
